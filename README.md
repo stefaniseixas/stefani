@@ -1,8 +1,12 @@
 # Olá! Eu sou a Stéfani 😜
 🌱 Estudando Desenvolvimento de Web
- <div align="center">
-  <a href="https://github.com/stefaniseixas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stefaniseixas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   
+   <p align="center">
+  <a href="https://github.com/-stefaniseixas">
+  <img height="123em" src="https://github-readme-stats.vercel.app/api?username=stefaniseixas&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="123em" src="https://github-readme-streak-stats.herokuapp.com/?user=stefaniseixas&theme=react" alt="mystreak" />
+  </p>
+
   
 </div>
   <div align="center">
